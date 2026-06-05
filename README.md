@@ -1,2 +1,26 @@
-# Stock-Market-Analysis
-Performed EDA on S&amp;P 500 stock data to analyze trends, volatility, and performance. Applied feature engineering (daily returns, rolling averages) and statistical testing. Built visualizations to study correlations and risk vs return across major stocks.
+
+# Stock Market Exploratory Data Analysis
+
+## Objective
+Analyze historical stock data to understand trends, volatility, and performance.
+
+## Tools Used
+- Python (Pandas, NumPy)
+- Matplotlib, Seaborn
+- SciPy
+
+## Key Steps
+- Data Cleaning
+- Feature Engineering
+- Statistical Analysis
+- Data Visualization
+
+## Key Insights
+- AAPL and MSFT show strong growth
+- Market returns are slightly positive
+- High correlation among stocks
+- Volatility increases during events
+
+## Conclusion
+Market shows growth but includes risk.
+Diversification is recommended.
